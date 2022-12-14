@@ -2,7 +2,7 @@
 | No.| DAFTAR ISI    | FILE          | GOTO                            |
 |----|---------------|---------------|---------------------------------|
 | 1. | Program       | Praktikum8.py | [Menuju Kesini](#program)       |
-| 2. | Diagram Class | Diagram.png   | [Menuju Kesini](#Diagram Class) |
+| 2. | Diagram Class | Diagram.png   | [Menuju Kesini](#diagram-class) |
 | 3. | Flowchart     | Flowchart.png | [Menuju Kesini](#flowchart)     |
 | 4. | Penutup       |               | [Menuju Kesini](#penutup)       |
 

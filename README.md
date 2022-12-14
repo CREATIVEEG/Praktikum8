@@ -142,11 +142,11 @@ Beginilah hasil dari RUN program ini :<br/>
 2. Menampilkan data<br/>
 ![ss.img](Screenshots/ss2.png)
 3. Menghapus data<br/>
-![ss.img](Screenshots/ss3.png)
+![ss.img](Screenshots/ss3.png)<br/>
 ***Jika memilih menampilkan data lagi, maka akan seperti ini:***<br/>
 ![ss.img](Screenshots/ss4.png)
 4. Mengubah data<br/>
-![ss.img](Screenshots/ss5.png)
+![ss.img](Screenshots/ss5.png)<br/>
 ***Nantinya data yang awal akan berubah:***<br/>
 ![ss.img](Screenshots/ss6.png)
 5. Keluar<br/>
